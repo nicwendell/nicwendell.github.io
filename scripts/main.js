@@ -1,5 +1,5 @@
 const myHeading = document.querySelector("h1");
-myHeading.textContent = "miss smelon";
+myHeading.textContent = "miss melon";
 
 // let myVariable = "melon"
 
